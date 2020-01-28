@@ -30,7 +30,7 @@ pandas==0.25.3
 pika==1.1.0
 fuzzywuzzy==0.17.0
 python-Levenshtein==0.12
-html2text==2019.9.26
+html2text==2020.1.16
 python-whois==0.7.2
 pylint==2.4.4
 lxml==4.4.2
