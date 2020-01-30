@@ -33,7 +33,7 @@ python-Levenshtein==0.12
 html2text==2020.1.16
 python-whois==0.7.2
 pylint==2.4.4
-lxml==4.4.2
+lxml==4.5.0
 httpx==0.11.1
 textdistance
 tldextract
