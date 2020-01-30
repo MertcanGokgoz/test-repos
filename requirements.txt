@@ -2,7 +2,7 @@ Django==2.2.9
 wheel==0.34.1
 django-redis==4.11.0
 django-environ==0.4.5
-django-ckeditor==5.8.0
+django-ckeditor==5.9.0
 django-activeurl==0.2.0
 django-summernote==0.8.11.6
 django-import-export==2.0.1
