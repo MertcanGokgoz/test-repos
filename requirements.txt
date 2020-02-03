@@ -6,7 +6,7 @@ django-ckeditor==5.9.0
 django-activeurl==0.2.0
 django-summernote==0.8.11.6
 django-import-export==2.0.1
-django-debug-toolbar==2.1
+django-debug-toolbar==2.2
 django-http-exceptions==1.2.0
 psycopg2-binary==2.8.4
 python-magic==0.4.15
