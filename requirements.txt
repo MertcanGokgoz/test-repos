@@ -45,4 +45,4 @@ tldextract==2.2.2
 urllib3==1.25.8
 WeasyPrint==51
 wheel==0.34.2
-XlsxWriter==1.2.7
+XlsxWriter==1.2.8
