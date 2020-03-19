@@ -1,5 +1,5 @@
 black==19.10b0
-boto3==1.12.23
+boto3==1.12.24
 certifi==2019.11.28
 cpe==1.2.1
 django-activeurl==0.2.0
