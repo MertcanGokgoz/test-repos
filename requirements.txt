@@ -14,7 +14,7 @@ django-storages==1.9.1
 django-summernote==0.8.11.6
 Django==2.2.12
 djangorestframework==3.11.0
-docxtpl==0.7.0
+docxtpl==0.9.0
 fuzzywuzzy==0.18.0
 geoip2==3.0.0
 gunicorn==20.0.4
