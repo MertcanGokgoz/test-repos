@@ -23,7 +23,7 @@ html2text==2020.1.16
 httpx==0.12.1
 lxml==4.5.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.18.3
 pandas==1.0.3
 pika==1.1.0
 Pillow==7.1.1
