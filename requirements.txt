@@ -46,7 +46,7 @@ textdistance==4.2.0
 tld==0.12.1
 tldextract==2.2.2
 urllib3==1.25.9
-validators==0.14.3
+validators==0.15.0
 WeasyPrint==51
 wheel==0.34.2
 XlsxWriter==1.2.8
