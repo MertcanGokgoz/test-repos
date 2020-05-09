@@ -35,7 +35,7 @@ pylint-django==2.0.15
 pylint==2.5.2
 pymongo==3.10.1
 python-Levenshtein==0.12
-python-magic==0.4.15
+python-magic==0.4.18
 python-whois==0.7.2
 random-useragent==1.0
 requests-futures==1.0.0
