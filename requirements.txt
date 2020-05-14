@@ -45,7 +45,7 @@ python-whois==0.7.2
 random-useragent==1.0
 requests-futures==1.0.0
 requests==2.23.0
-sentry_sdk==0.14.3
+sentry_sdk==0.14.4
 slimit==0.8.1
 stix2==1.4.0
 tablib==1.1.0
