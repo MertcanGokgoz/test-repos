@@ -1,6 +1,6 @@
 beautifulsoup4==4.9.0
 black==19.10b0
-boto3==1.13.5
+boto3==1.13.10
 Brotli==1.0.7
 calmjs.parse==1.2.4
 certifi==2020.4.5.1
