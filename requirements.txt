@@ -51,7 +51,7 @@ slimit==0.8.1
 stix2==1.4.0
 tablib==1.1.0
 textdistance==4.2.0
-tld==0.12.1
+tld==0.12.2
 tldextract==2.2.2
 urllib3==1.25.9
 validators==0.15.0
