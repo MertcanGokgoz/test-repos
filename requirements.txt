@@ -58,5 +58,5 @@ validators==0.15.0
 WeasyPrint==51
 wheel==0.34.2
 whitenoise==5.1.0
-XlsxWriter==1.2.8
+XlsxWriter==1.2.9
 xmltodict==0.12.0
