@@ -1,7 +1,7 @@
 awscli==1.18.75
 beautifulsoup4==4.9.1
 black==19.10b0
-boto3==1.13.25
+boto3==1.13.26
 Brotli==1.0.7
 calmjs.parse==1.2.4
 certifi==2020.4.5.2
