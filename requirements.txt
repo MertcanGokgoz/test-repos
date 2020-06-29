@@ -1,4 +1,4 @@
-awscli==1.18.88
+awscli==1.18.89
 beautifulsoup4==4.9.1
 black==19.10b0
 boto3==1.14.11
