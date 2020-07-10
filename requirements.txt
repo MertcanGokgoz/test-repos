@@ -34,7 +34,7 @@ html-text==0.5.1
 html2text==2020.1.16
 httpx==0.13.3
 idna==2.10
-lxml==4.5.1
+lxml==4.5.2
 matplotlib==3.2.2
 mongoengine==0.20.0
 numpy==1.19.0
