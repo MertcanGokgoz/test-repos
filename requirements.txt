@@ -28,7 +28,7 @@ djangorestframework==3.11.0
 docxtpl==0.10.0
 fuzzywuzzy==0.18.0
 geoip2==3.0.0
-graphene-django==2.11.0
+graphene-django==2.11.1
 gunicorn==20.0.4
 html-text==0.5.1
 html2text==2020.1.16
