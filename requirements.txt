@@ -63,7 +63,7 @@ tld==0.12.2
 tldextract==2.2.2
 twilio==6.44.0
 urllib3==1.25.9
-validators==0.15.0
+validators==0.16.0
 WeasyPrint==51
 wheel==0.34.2
 whitenoise==5.1.0
