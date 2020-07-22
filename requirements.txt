@@ -31,7 +31,7 @@ docxtpl==0.10.0
 drf-jwt==1.16.2
 feedparser==5.2.1
 fuzzywuzzy==0.18.0
-geoip2==3.0.0
+geoip2==4.0.1
 gunicorn==20.0.4
 html-text==0.5.1
 html2text==2020.1.16
