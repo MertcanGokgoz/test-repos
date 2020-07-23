@@ -33,7 +33,7 @@ feedparser==5.2.1
 fuzzywuzzy==0.18.0
 geoip2==4.0.1
 gunicorn==20.0.4
-html-text==0.5.1
+html-text==0.5.2
 html2text==2020.1.16
 httpx==0.13.3
 idna==2.10
