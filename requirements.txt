@@ -62,7 +62,7 @@ tablib==1.1.0
 textdistance==4.2.0
 tld==0.12.2
 tldextract==2.2.3
-twilio==6.44.1
+twilio==6.44.2
 urllib3==1.25.10
 validators==0.17.1
 WeasyPrint==51
