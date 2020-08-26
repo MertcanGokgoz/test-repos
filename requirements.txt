@@ -1,6 +1,6 @@
 awscli>=1.18.122
 beautifulsoup4==4.9.1
-black==19.10b0
+black==20.8b1
 boto3>=1.14.45
 Brotli==1.0.7
 calmjs.parse==1.2.5
