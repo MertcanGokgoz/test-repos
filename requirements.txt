@@ -1,7 +1,7 @@
-awscli>=1.18.122
+awscli>=1.18.130
 beautifulsoup4==4.9.1
 black==20.8b1
-boto3>=1.14.45
+boto3>=1.14.53
 Brotli==1.0.9
 calmjs.parse==1.2.5
 certifi==2020.6.20
@@ -27,7 +27,7 @@ django-rest-framework-mongoengine==3.4.1
 django-ses==1.0.2
 django-storages==1.10
 django-summernote==0.8.11.6
-Django==2.2.15
+Django==2.2.16
 djangorestframework==3.11.1
 dnspython==2.0.0
 docxtpl==0.10.0
