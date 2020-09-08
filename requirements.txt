@@ -24,7 +24,7 @@ django-qsessions==1.0.0
 django-ratelimit==3.0.1
 django-redis==4.12.1
 django-rest-framework-mongoengine==3.4.1
-django-ses==1.0.2
+django-ses==1.0.3
 django-storages==1.10
 django-summernote==0.8.11.6
 Django==2.2.16
