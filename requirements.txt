@@ -31,7 +31,7 @@ Django==2.2.16
 djangorestframework==3.11.1
 dnspython==2.0.0
 docxtpl==0.10.0
-drf-jwt==1.17.1
+drf-jwt==1.17.2
 feedparser==6.0.1
 fuzzywuzzy==0.18.0
 geoip2==4.0.2
