@@ -28,7 +28,7 @@ django-ses==1.0.3
 django-storages==1.10.1
 django-summernote==0.8.11.6
 Django==2.2.16
-djangorestframework==3.11.1
+djangorestframework==3.12.1
 dnspython==2.0.0
 docxtpl==0.10.0
 drf-jwt==1.17.2
