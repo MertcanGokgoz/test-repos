@@ -1,5 +1,5 @@
 awscli>=1.18.130
-beautifulsoup4==4.9.1
+beautifulsoup4==4.9.3
 black==20.8b1
 boto3>=1.14.53
 Brotli==1.0.9
