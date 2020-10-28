@@ -30,7 +30,7 @@ django-summernote==0.8.11.6
 Django==2.2.16
 djangorestframework==3.12.1
 dnspython==2.0.0
-docxtpl==0.11.0
+docxtpl==0.11.1
 drf-jwt==1.17.2
 feedparser==6.0.2
 fuzzywuzzy==0.18.0
