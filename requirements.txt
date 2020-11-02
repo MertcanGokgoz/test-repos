@@ -44,7 +44,7 @@ lxml==4.6.1
 matplotlib==3.3.2
 mongoengine==0.20.0
 newrelic==5.22.1.152
-numpy==1.19.2
+numpy==1.19.3
 pandas==1.1.4
 pika==1.1.0
 Pillow==8.0.1
