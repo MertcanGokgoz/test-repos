@@ -54,7 +54,7 @@ python-whois==0.7.3
 random-useragent==1.0
 requests-futures==1.0.0
 requests==2.25.0
-stix2==2.0.2
+stix2==2.1.0
 tablib==1.1.0
 textdistance==4.2.0
 tld==0.12.2
