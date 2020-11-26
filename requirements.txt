@@ -34,8 +34,8 @@ html2text==2020.1.16
 httpx==0.16.1
 idna==2.10
 lxml==4.6.1
-matplotlib==3.3.2
 mongoengine==0.21.0
+matplotlib==3.3.3
 newrelic==5.22.1.152
 numpy==1.19.4
 pandas==1.1.4
@@ -59,7 +59,7 @@ tablib==1.1.0
 textdistance==4.2.0
 tld==0.12.2
 tldextract==3.0.2
-twilio==6.46.0
+twilio==6.48.0
 urllib3==1.25.11
 validators==0.18.1
 WeasyPrint==52.1
