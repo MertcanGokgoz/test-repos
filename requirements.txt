@@ -33,7 +33,7 @@ html-text==0.5.2
 html2text==2020.1.16
 httpx==0.16.1
 idna==2.10
-lxml==4.6.1
+lxml==4.6.2
 mongoengine==0.21.0
 matplotlib==3.3.3
 newrelic==5.22.1.152
