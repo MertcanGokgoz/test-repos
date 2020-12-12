@@ -15,7 +15,6 @@ django-redis==4.12.1
 django-rest-framework-mongoengine==3.4.1
 django-ses==1.0.3
 django-storages==1.10.1
-django-summernote==0.8.11.6
 Django==3.1.4
 djangorestframework-jsonapi==4.0.0
 djangorestframework-simplejwt==4.6.0
@@ -34,7 +33,6 @@ idna==2.10
 lxml==4.6.2
 mongoengine==0.21.0
 matplotlib==3.3.3
-newrelic==5.22.1.152
 numpy==1.19.4
 pandas==1.1.5
 phonenumbers==8.12.14
