@@ -33,7 +33,7 @@ idna==2.10
 lxml==4.6.2
 matplotlib==3.3.3
 mongoengine==0.22.1
-numpy==1.19.4
+numpy==1.19.5
 pandas==1.2.0
 phonenumbers==8.12.15
 pika==1.1.0
