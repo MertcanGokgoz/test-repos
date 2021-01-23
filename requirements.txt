@@ -48,7 +48,7 @@ pyotp==2.4.1
 python-dateutil==2.8.1
 python-Levenshtein==0.12.1
 python-whois==0.7.3
-pyyaml==5.3.1
+pyyaml==5.4.1
 random-useragent==1.0
 requests-futures==1.0.0
 requests==2.25.1
