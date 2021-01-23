@@ -41,7 +41,7 @@ Pillow==8.1.0
 psycopg2-binary==2.8.6
 pwned-passwords-django==1.4.1
 PyJWT==1.7.1
-pylint-django==2.3.0
+pylint-django==2.4.2
 pylint==2.6.0
 pymongo==3.11.2
 pyotp==2.4.1
