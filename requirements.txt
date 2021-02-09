@@ -4,7 +4,7 @@ boto3==1.17.2
 calmjs.parse==1.2.5
 certifi==2020.12.5
 checkdmarc==4.3.1
-cryptography==3.3.1
+cryptography==3.4.2
 django-ckeditor==6.0.0
 django-environ==0.4.5
 django-filter==2.4.0
