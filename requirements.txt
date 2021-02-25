@@ -54,7 +54,7 @@ tabulate==0.8.9
 textdistance==4.2.1
 tld==0.12.5
 tldextract==3.1.0
-twilio==6.52.0
+twilio==6.53.0
 uritemplate==3.0.1
 urllib3==1.26.3
 validators==0.18.2
