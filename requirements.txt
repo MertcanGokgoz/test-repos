@@ -28,7 +28,7 @@ git+https://github.com/jazzband/django-auditlog
 gunicorn==20.0.4
 html-text==0.5.2
 html2text==2020.1.16
-httpx==0.16.1
+httpx==0.17.0
 idna==2.10
 lxml==4.6.2
 matplotlib==3.3.4
