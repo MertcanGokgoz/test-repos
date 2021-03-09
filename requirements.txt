@@ -1,4 +1,4 @@
-awscli==1.19.19
+awscli==1.19.23
 beautifulsoup4==4.9.3
 boto3==1.17.19
 calmjs.parse==1.2.5
