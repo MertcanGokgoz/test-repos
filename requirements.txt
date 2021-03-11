@@ -5,13 +5,13 @@ calmjs.parse==1.2.5
 certifi==2020.12.5
 checkdmarc==4.4.1
 cryptography==3.4.6
+device-detector==0.10
 django-ckeditor==6.0.0
 django-environ==0.4.5
 django-filter==2.4.0
 django-import-export==2.5.0
 django-ipware==3.0.2
 django-oauth-toolkit==1.4.0
-django-password-validators==1.4.0
 django-redis==4.12.1
 django-ses==1.0.3
 django-storages==1.11.1
@@ -21,6 +21,7 @@ djangorestframework-simplejwt==4.6.0
 djangorestframework==3.12.2
 dnspython==2.1.0
 drf-jwt==1.17.3
+fabric==2.6.0
 feedparser==6.0.2
 fuzzywuzzy==0.18.0
 geoip2==4.1.0
@@ -37,7 +38,6 @@ pandas==1.2.3
 pika==1.2.0
 Pillow==8.1.2
 psycopg2-binary==2.8.6
-pwned-passwords-django==1.4.1
 PyJWT==1.7.1
 pyotp==2.6.0
 python-dateutil==2.8.1
