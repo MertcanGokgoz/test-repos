@@ -3,7 +3,7 @@ beautifulsoup4==4.9.3
 boto3==1.17.23
 calmjs.parse==1.2.5
 certifi==2020.12.5
-checkdmarc==4.3.1
+checkdmarc==4.4.1
 cryptography==3.4.6
 django-ckeditor==6.0.0
 django-environ==0.4.5
