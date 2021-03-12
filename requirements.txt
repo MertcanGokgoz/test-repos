@@ -1,6 +1,6 @@
 awscli==1.19.25
 beautifulsoup4==4.9.3
-boto3==1.17.25
+boto3==1.17.26
 calmjs.parse==1.2.5
 certifi==2020.12.5
 checkdmarc==4.4.1
